@@ -101,6 +101,17 @@ body {
 background:  #8c070e;
 box-shadow: 0 0 10px  #8c070e, 0 0 40px  #8c070e, 0 0 80px  #8c070e;
 }
+.navbar-brand {
+    color: white !important;
+}
+.nav-link {
+    color: white !important;
+    
+}
+
+.jumbotron {
+    background-color: black;
+}
 
 
 
