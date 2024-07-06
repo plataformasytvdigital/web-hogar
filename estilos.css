@@ -1,0 +1,145 @@
+body{
+    background-color: black;
+    background-attachment: fixed;
+    backface-visibility: visible;
+    background-size: auto;
+}
+    .carousel-item {
+        text-align: center;
+        height: 1000px; /* Altura del carrusel */
+      }
+      .carousel-item img {
+          display: block;
+          width: 100%;
+      }
+      .footer {
+        background-color: #333;
+        color: #fff;
+        text-align: center;
+        padding: 10px 0;
+        position: absolute;
+        bottom: 0;
+        width: 100%;
+      }
+      .boton1 {
+      background-color: #8c070e; /* Color de fondo */
+      border: none; /* Sin borde */
+      color: white; /* Color del texto */
+      padding:20px 32px; /* Espaciado interno */
+      text-align: center; /* Alineación del texto */
+      text-decoration: none; /* Sin subrayado */
+      display: inline-block; /* Mostrar como elemento en línea */
+      font-size: 16px; /* Tamaño del texto */
+      margin: 4px 2px; /* Margen externo */
+      cursor: pointer; /* Cursor al pasar sobre el botón */
+      border-radius: 8px; /* Bordes redondeados */
+      text-decoration: none;
+      overflow: hidden;
+      transition: 0.2s;
+      width: 100%;
+  }
+  .boton1:hover{
+  background:  #8c070e;
+  box-shadow: 0 0 10px  #8c070e, 0 0 40px  #8c070e, 0 0 80px  #8c070e;
+  }
+
+  .boton2 {
+    background-color: green; /* Color de fondo */
+    border: none; /* Sin borde */
+    color: white; /* Color del texto */
+    padding:20px 32px; /* Espaciado interno */
+    text-align: center; /* Alineación del texto */
+    text-decoration: none; /* Sin subrayado */
+    display: inline-block; /* Mostrar como elemento en línea */
+    font-size: 16px; /* Tamaño del texto */
+    margin: 4px 2px; /* Margen externo */
+    cursor: pointer; /* Cursor al pasar sobre el botón */
+    border-radius: 8px; /* Bordes redondeados */
+    text-decoration: none;
+    overflow: hidden;
+    transition: 0.2s;
+    width: 100%;
+}
+.boton2:hover{
+background:  green;
+box-shadow: 0 0 10px  green, 0 0 40px   green, 0 0 80px   green;
+}
+
+.boton3 {
+    background-color: #4A078C; /* Color de fondo */
+    border: none; /* Sin borde */
+    color: white; /* Color del texto */
+    padding:20px 32px; /* Espaciado interno */
+    text-align: center; /* Alineación del texto */
+    text-decoration: none; /* Sin subrayado */
+    display: inline-block; /* Mostrar como elemento en línea */
+    font-size: 16px; /* Tamaño del texto */
+    margin: 4px 2px; /* Margen externo */
+    cursor: pointer; /* Cursor al pasar sobre el botón */
+    border-radius: 8px; /* Bordes redondeados */
+    text-decoration: none;
+    overflow: hidden;
+    transition: 0.2s;
+    width: 100%;
+}
+.boton3:hover{
+background: #4A078C;
+box-shadow: 0 0 10px #590844, 0 0 40px #EE0FF2, 0 0 80px #670FBF;
+}
+
+.boton4 {
+    background-color:  blue; /* Color de fondo */
+    border: none; /* Sin borde */
+    color: white; /* Color del texto */
+    padding:20px 32px; /* Espaciado interno */
+    text-align: center; /* Alineación del texto */
+    text-decoration: none; /* Sin subrayado */
+    display: inline-block; /* Mostrar como elemento en línea */
+    font-size: 16px; /* Tamaño del texto */
+    margin: 4px 2px; /* Margen externo */
+    cursor: pointer; /* Cursor al pasar sobre el botón */
+    border-radius: 8px; /* Bordes redondeados */
+    text-decoration: none;
+    overflow: hidden;
+    transition: 0.2s;
+    width: 100%;
+}
+.boton4:hover{
+background:   blue;
+box-shadow: 0 0 10px   blue, 0 0 40px   blue, 0 0 80px   blue;
+}
+body {
+            background-color: black;
+            color: white;
+        }
+      
+        .navbar-brand {
+            color: white !important;
+        }
+        .nav-link {
+            color: white !important;
+            
+        }
+        
+        .jumbotron {
+            background-color: black;
+        }
+        .image-container {
+            text-align: center; 
+        }
+        .image-container img {
+            width: 100%;
+            max-width: 500px;
+            height: auto;
+            margin-bottom: 20px;
+        }
+        .btn-outline-light {
+            border-color: white !important;
+            color: white !important;
+        }
+        .footer {
+            background-color: black;
+            color: white;
+            padding: 20px;
+        }
+       
